@@ -8,7 +8,7 @@ First, run the development server:
 ```bash
 npm install
 ```
-#### To start app run this commend
+### To start app run this commend
 ```bash
 npm run dev
 # or
