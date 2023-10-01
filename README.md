@@ -4,6 +4,11 @@
 After clone or download the rep
 First, run the development server:
 
+##### You need to create account with [www.pexels.com]
+
+create **.env.local** file on the app and add 
+- **PEXELS_API_KEY**=your pexels API Key
+
 ### This commend will install all dependency
 ```bash
 npm install
